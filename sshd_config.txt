@@ -1,3 +1,6 @@
+# Please change this file configuration by using this command.
+# sudo nano /etc/ssh/sshd_config.
+
 Include /etc/ssh/sshd_config.d/*.conf
 
 Port 2000
